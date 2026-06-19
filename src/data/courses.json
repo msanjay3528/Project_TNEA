@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cse",
+    "name": "Computer Science and Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["Software Engineer", "Full Stack Developer", "Cloud Architect", "Systems Analyst"],
+    "scope": "High Demand",
+    "category": "Software",
+    "description": "Focuses on the design, development, and analysis of software and hardware systems."
+  },
+  {
+    "id": "aids",
+    "name": "Artificial Intelligence and Data Science",
+    "degree": "B.Tech.",
+    "duration": "4 Years",
+    "careers": ["AI Engineer", "Data Scientist", "Machine Learning Specialist", "BI Developer"],
+    "scope": "Emerging Tech",
+    "category": "Emerging",
+    "description": "Equips students with the skills to analyze large data streams and design intelligent systems."
+  },
+  {
+    "id": "it",
+    "name": "Information Technology",
+    "degree": "B.Tech.",
+    "duration": "4 Years",
+    "careers": ["Network Administrator", "Database Administrator", "Information Security Specialist", "IT Consultant"],
+    "scope": "High Demand",
+    "category": "Software",
+    "description": "Specializes in application software, information retrieval, networking, and security management."
+  },
+  {
+    "id": "ece",
+    "name": "Electronics and Communication Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["VLSI Design Engineer", "Telecom Engineer", "Embedded Systems Developer", "RF Engineer"],
+    "scope": "Core & Emerging",
+    "category": "Circuit",
+    "description": "Combines circuit design and communication systems, serving as the bridge to hardware and IoT."
+  },
+  {
+    "id": "eee",
+    "name": "Electrical and Electronics Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["Power Grid Engineer", "Control Systems Designer", "Electric Vehicle Specialist", "Automation Engineer"],
+    "scope": "Core Industry",
+    "category": "Circuit",
+    "description": "Deals with electricity generation, electrical systems, power electronics, and electrical machinery."
+  },
+  {
+    "id": "mech",
+    "name": "Mechanical Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["Automotive Engineer", "Aerospace Engineer", "Robotics Designer", "CAD Engineer"],
+    "scope": "Core Industry",
+    "category": "Core",
+    "description": "The mother branch of engineering, focusing on thermodynamics, machine design, manufacturing, and robotics."
+  },
+  {
+    "id": "civil",
+    "name": "Civil Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["Structural Engineer", "Project Manager", "Urban Planner", "Geotechnical Engineer"],
+    "scope": "Core Infrastructure",
+    "category": "Core",
+    "description": "Deals with the design, construction, and maintenance of physical structures like roads, bridges, and buildings."
+  },
+  {
+    "id": "bme",
+    "name": "Biomedical Engineering",
+    "degree": "B.E.",
+    "duration": "4 Years",
+    "careers": ["Medical Device Designer", "Clinical Engineer", "Biomaterials Specialist", "Healthcare Researcher"],
+    "scope": "Interdisciplinary",
+    "category": "Emerging",
+    "description": "Bridges the gap between engineering and medicine for diagnostic tools, prosthetics, and medical software."
+  },
+  {
+    "id": "chem",
+    "name": "Chemical Engineering",
+    "degree": "B.Tech.",
+    "duration": "4 Years",
+    "careers": ["Process Engineer", "Petroleum Engineer", "Environmental Engineer", "Safety Specialist"],
+    "scope": "Core Industry",
+    "category": "Core",
+    "description": "Applies chemistry, physics, and biology to industrial processes for materials, energy, and chemicals."
+  },
+  {
+    "id": "biotech",
+    "name": "Biotechnology",
+    "degree": "B.Tech.",
+    "duration": "4 Years",
+    "careers": ["Bioinformatics Specialist", "R&D Specialist", "Quality Control Analyst", "Genetic Engineer"],
+    "scope": "Emerging Tech",
+    "category": "Emerging",
+    "description": "Utilizes biological systems and organisms to develop healthcare products, agricultural solutions, and drugs."
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "code": "0001",
+    "name": "University Departments of Anna University - CEG Campus, Guindy",
+    "district": "Chennai",
+    "type": "Government",
+    "autonomous": true,
+    "nirfRank": 15,
+    "established": 1794,
+    "avgPackage": 8.5,
+    "maxPackage": 36.0,
+    "placementRate": 98,
+    "overview": "College of Engineering, Guindy (CEG) is a public engineering college in Chennai, India. Founded in 1794, it is one of the oldest engineering institutions in Asia and the flagship campus of Anna University.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil", "bme", "chem", "biotech"],
+    "cutoffs": {
+      "cse": { "OC": 199.5, "BC": 199.0, "BCM": 198.5, "MBC": 198.0, "SC": 195.0, "ST": 192.0 },
+      "ece": { "OC": 198.5, "BC": 198.0, "BCM": 197.5, "MBC": 197.0, "SC": 193.0, "ST": 189.0 },
+      "eee": { "OC": 197.5, "BC": 197.0, "BCM": 196.0, "MBC": 195.5, "SC": 191.0, "ST": 186.0 }
+    },
+    "highlights": ["Oldest engineering college in Asia", "Top-tier research facilities", "Vibrant campus life in the heart of Chennai"],
+    "recruiters": ["Microsoft", "Google", "Amazon", "TCS", "Cognizant", "L&T"]
+  },
+  {
+    "code": "0004",
+    "name": "University Departments of Anna University - MIT Campus, Chromepet",
+    "district": "Chengalpattu",
+    "type": "Government",
+    "autonomous": true,
+    "nirfRank": 22,
+    "established": 1949,
+    "avgPackage": 7.8,
+    "maxPackage": 32.0,
+    "placementRate": 96,
+    "overview": "Madras Institute of Technology (MIT) is a premier engineering campus under Anna University. Dr. A.P.J. Abdul Kalam is its most distinguished alumnus.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech"],
+    "cutoffs": {
+      "cse": { "OC": 198.5, "BC": 198.0, "BCM": 197.0, "MBC": 196.5, "SC": 192.0, "ST": 188.0 },
+      "ece": { "OC": 197.5, "BC": 196.8, "BCM": 195.5, "MBC": 195.0, "SC": 190.0, "ST": 185.0 }
+    },
+    "highlights": ["Aeronautics & Automobile specialization", "Distinguished alumni network", "Excellent placement records"],
+    "recruiters": ["Infosys", "Wipro", "TCS", "Ford", "Hyundai", "Qualcomm"]
+  },
+  {
+    "code": "2006",
+    "name": "PSG College of Technology, Peelamedu",
+    "district": "Coimbatore",
+    "type": "Government-Aided",
+    "autonomous": true,
+    "nirfRank": 30,
+    "established": 1951,
+    "avgPackage": 8.0,
+    "maxPackage": 38.0,
+    "placementRate": 97,
+    "overview": "PSG College of Technology is a government-aided autonomous institution in Coimbatore. It is highly regarded for its close industry partnerships and strong practical focus.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "chem", "biotech"],
+    "cutoffs": {
+      "cse": { "OC": 199.0, "BC": 198.5, "BCM": 198.0, "MBC": 197.5, "SC": 194.0, "ST": 190.0 },
+      "aids": { "OC": 198.0, "BC": 197.5, "BCM": 196.5, "MBC": 196.0, "SC": 191.0, "ST": 187.0 },
+      "ece": { "OC": 198.0, "BC": 197.2, "BCM": 196.0, "MBC": 195.5, "SC": 190.5, "ST": 185.0 }
+    },
+    "highlights": ["In-house industrial manufacturing centers", "Strong industry-institute collaborations", "Ranked consistently in top private-aided colleges"],
+    "recruiters": ["Cisco", "Nvidia", "De Shaw", "Intel", "L&T", "TCS"]
+  },
+  {
+    "code": "1315",
+    "name": "Sri Sivasubramaniya Nadar College of Engineering, Kalavakkam",
+    "district": "Chengalpattu",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 45,
+    "established": 1996,
+    "avgPackage": 7.2,
+    "maxPackage": 40.0,
+    "placementRate": 95,
+    "overview": "Sri Sivasubramaniya Nadar College of Engineering (SSN), founded by philanthropist Shiv Nadar, is renowned for its state-of-the-art campus, generous scholarship programs, and strong research focus.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "bme", "chem"],
+    "cutoffs": {
+      "cse": { "OC": 198.0, "BC": 197.5, "BCM": 196.5, "MBC": 196.0, "SC": 190.0, "ST": 185.0 },
+      "aids": { "OC": 197.0, "BC": 196.5, "BCM": 195.0, "MBC": 194.5, "SC": 188.0, "ST": 182.0 },
+      "ece": { "OC": 196.5, "BC": 195.5, "BCM": 194.0, "MBC": 193.5, "SC": 187.0, "ST": 180.0 }
+    },
+    "highlights": ["Generous merit and sports scholarships", "World-class green campus on OMR", "Excellent research funding and support"],
+    "recruiters": ["Amazon", "Adobe", "Goldman Sachs", "Zoho", "HCL", "Cognizant"]
+  },
+  {
+    "code": "5008",
+    "name": "Thiagarajar College of Engineering, Thiruparankundram",
+    "district": "Madurai",
+    "type": "Government-Aided",
+    "autonomous": true,
+    "nirfRank": 64,
+    "established": 1957,
+    "avgPackage": 6.8,
+    "maxPackage": 28.0,
+    "placementRate": 92,
+    "overview": "Thiagarajar College of Engineering (TCE) is a historic government-aided college in Madurai. It offers high-quality technical education rooted in values and heritage.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 197.5, "BC": 196.8, "BCM": 195.5, "MBC": 195.0, "SC": 188.0, "ST": 183.0 },
+      "ece": { "OC": 195.5, "BC": 194.5, "BCM": 193.0, "MBC": 192.5, "SC": 185.0, "ST": 178.0 }
+    },
+    "highlights": ["Deep-rooted values and alumni base", "Stately heritage architecture campus", "Consistent rankings in South India"],
+    "recruiters": ["TCS", "Accenture", "Honeywell", "TVS Motors", "L&T", "Saint Gobain"]
+  },
+  {
+    "code": "2007",
+    "name": "Coimbatore Institute of Technology, Civil Aerodrome Post",
+    "district": "Coimbatore",
+    "type": "Government-Aided",
+    "autonomous": true,
+    "nirfRank": 85,
+    "established": 1956,
+    "avgPackage": 7.0,
+    "maxPackage": 30.0,
+    "placementRate": 93,
+    "overview": "Coimbatore Institute of Technology (CIT) is a government-aided autonomous institution located near Coimbatore Airport. It is known for rigorous engineering curricula.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "chem"],
+    "cutoffs": {
+      "cse": { "OC": 198.0, "BC": 197.0, "BCM": 196.0, "MBC": 195.5, "SC": 189.0, "ST": 184.0 },
+      "ece": { "OC": 196.0, "BC": 195.0, "BCM": 193.5, "MBC": 193.0, "SC": 186.0, "ST": 179.0 }
+    },
+    "highlights": ["Excellent library and resources", "Proximity to industrial hubs", "Highly qualified research faculty"],
+    "recruiters": ["Bosch", "Renault Nissan", "Oracle", "Cognizant", "TCS", "L&T"]
+  },
+  {
+    "code": "2018",
+    "name": "PSG Institute of Technology and Applied Research, Neelambur",
+    "district": "Coimbatore",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 80,
+    "established": 2014,
+    "avgPackage": 7.0,
+    "maxPackage": 24.0,
+    "placementRate": 96,
+    "overview": "PSG iTech is the newer engineering college under the PSG Sons & Charities trust. It maintains the same academic rigor and corporate integration as PSG Tech.",
+    "coursesOffered": ["cse", "aids", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 197.5, "BC": 196.5, "BCM": 195.0, "MBC": 194.5, "SC": 188.0, "ST": 181.0 },
+      "ece": { "OC": 195.5, "BC": 194.0, "BCM": 192.5, "MBC": 192.0, "SC": 184.0, "ST": 176.0 }
+    },
+    "highlights": ["Modern infrastructure and smart labs", "Strict discipline and high academic focus", "Direct recruitment from PSG network partners"],
+    "recruiters": ["Cisco", "IBM", "Wipro", "Capgemini", "Ford", "Mindtree"]
+  },
+  {
+    "code": "2005",
+    "name": "Government College of Technology, Thadagam Road",
+    "district": "Coimbatore",
+    "type": "Government",
+    "autonomous": true,
+    "nirfRank": 110,
+    "established": 1945,
+    "avgPackage": 5.5,
+    "maxPackage": 18.0,
+    "placementRate": 88,
+    "overview": "Government College of Technology (GCT), Coimbatore is an iconic state-funded engineering college. It offers affordable education with very low fees.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech", "civil", "chem"],
+    "cutoffs": {
+      "cse": { "OC": 196.5, "BC": 195.5, "BCM": 194.0, "MBC": 193.5, "SC": 186.0, "ST": 180.0 },
+      "ece": { "OC": 194.5, "BC": 193.0, "BCM": 191.5, "MBC": 191.0, "SC": 183.0, "ST": 175.0 }
+    },
+    "highlights": ["Extremely low government fees", "Lush campus setting", "Highly competitive cutoff admissions"],
+    "recruiters": ["TCS", "Wipro", "L&T Construction", "Brakes India", "Titan"]
+  },
+  {
+    "code": "2603",
+    "name": "Government College of Engineering, Karuppur",
+    "district": "Salem",
+    "type": "Government",
+    "autonomous": true,
+    "nirfRank": 140,
+    "established": 1966,
+    "avgPackage": 4.5,
+    "maxPackage": 12.0,
+    "placementRate": 84,
+    "overview": "Government College of Engineering, Salem is a state-funded engineering institute. It has a expansive campus and is recognized for its core engineering departments.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 192.5, "BC": 191.0, "BCM": 189.5, "MBC": 189.0, "SC": 180.0, "ST": 172.0 },
+      "ece": { "OC": 189.0, "BC": 187.0, "BCM": 185.0, "MBC": 184.5, "SC": 175.0, "ST": 168.0 }
+    },
+    "highlights": ["Highly affordable fee structure", "TEQIP funded laboratory upgrades", "Strong representation in government departments"],
+    "recruiters": ["TCS", "Cognizant", "Hexaware", "Vuram", "Sanmina"]
+  },
+  {
+    "code": "2618",
+    "name": "Sona College of Technology, Suramangalam",
+    "district": "Salem",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 120,
+    "established": 1997,
+    "avgPackage": 4.8,
+    "maxPackage": 16.0,
+    "placementRate": 89,
+    "overview": "Sona College of Technology is a highly progressive private autonomous college in Salem. It is known for advanced research centers, research projects with ISRO, and software training.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "biotech"],
+    "cutoffs": {
+      "cse": { "OC": 189.5, "BC": 187.0, "BCM": 185.5, "MBC": 185.0, "SC": 176.0, "ST": 168.0 },
+      "ece": { "OC": 182.0, "BC": 179.0, "BCM": 176.0, "MBC": 175.5, "SC": 164.0, "ST": 155.0 }
+    },
+    "highlights": ["ISRO collaboration on engineering designs", "Specialized focus on software skill development", "Vibrant international student exchange programs"],
+    "recruiters": ["Infosys", "Capgemini", "Cognizant", "Mindtree", "Tessolve", "Zoho"]
+  },
+  {
+    "code": "1419",
+    "name": "Sri Sairam Engineering College, West Tambaram",
+    "district": "Kanchipuram",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 105,
+    "established": 1995,
+    "avgPackage": 5.5,
+    "maxPackage": 20.0,
+    "placementRate": 92,
+    "overview": "Sri Sairam Engineering College is an autonomous private college. It offers top-class facilities, disciplined environment, and consistently achieves high placement rates in Chennai IT sector.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "bme"],
+    "cutoffs": {
+      "cse": { "OC": 193.0, "BC": 191.5, "BCM": 190.0, "MBC": 189.5, "SC": 180.0, "ST": 172.0 },
+      "ece": { "OC": 189.5, "BC": 187.0, "BCM": 185.5, "MBC": 185.0, "SC": 174.0, "ST": 165.0 }
+    },
+    "highlights": ["AICTE award-winning clean campus", "Dedicated skill development cells", "Excellent performance in university exams"],
+    "recruiters": ["Zoho", "Cognizant", "TCS", "Accenture", "Wipro", "Virtusa"]
+  },
+  {
+    "code": "1124",
+    "name": "Loyola-ICAM College of Engineering and Technology, Nungambakkam",
+    "district": "Chennai",
+    "type": "Private",
+    "autonomous": false,
+    "nirfRank": 180,
+    "established": 2010,
+    "avgPackage": 5.2,
+    "maxPackage": 16.0,
+    "placementRate": 90,
+    "overview": "LICET is a private engineering college located in the heart of Chennai within the Loyola College campus. It is a collaboration between Jesuit Loyola College and ICAM of France.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech"],
+    "cutoffs": {
+      "cse": { "OC": 194.5, "BC": 193.0, "BCM": 191.0, "MBC": 190.5, "SC": 182.0, "ST": 173.0 },
+      "ece": { "OC": 190.0, "BC": 188.0, "BCM": 186.0, "MBC": 185.5, "SC": 175.0, "ST": 166.0 }
+    },
+    "highlights": ["Indo-French academic cooperation", "Prime location in Nungambakkam, Chennai", "Holistic Jesuit educational environment"],
+    "recruiters": ["SocGen", "Temenos", "TCS", "Infosys", "Renault Nissan", "Valeo"]
+  },
+  {
+    "code": "5004",
+    "name": "Alagappa Chettiar Government College of Engineering and Technology, Karaikudi",
+    "district": "Sivagangai",
+    "type": "Government",
+    "autonomous": true,
+    "nirfRank": 160,
+    "established": 1952,
+    "avgPackage": 4.2,
+    "maxPackage": 10.0,
+    "placementRate": 82,
+    "overview": "ACGCET is a government engineering college located in Karaikudi, Sivagangai district. It is named after philanthropist Dr. RM. Alagappa Chettiar.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 191.0, "BC": 189.5, "BCM": 188.0, "MBC": 187.5, "SC": 178.0, "ST": 170.0 },
+      "ece": { "OC": 186.5, "BC": 184.0, "BCM": 182.0, "MBC": 181.5, "SC": 171.0, "ST": 160.0 }
+    },
+    "highlights": ["Expansive 200+ acre campus", "Nominal state government fees", "Deep alumni base in civil and mechanical sectors"],
+    "recruiters": ["TCS", "Zifo R&D", "L&T Construction", "Brakes India", "Hexaware"]
+  },
+  {
+    "code": "2623",
+    "name": "Excel Engineering College, Pallakkapalayam",
+    "district": "Namakkal",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 155,
+    "established": 2007,
+    "avgPackage": 4.2,
+    "maxPackage": 12.0,
+    "placementRate": 85,
+    "overview": "Excel Engineering College is part of the Excel Group Institutions in Namakkal. It provides premium tech facilities, digital classrooms, and value-added certification courses.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "bme"],
+    "cutoffs": {
+      "cse": { "OC": 182.5, "BC": 179.0, "BCM": 176.0, "MBC": 175.5, "SC": 162.0, "ST": 150.0 },
+      "ece": { "OC": 175.0, "BC": 170.0, "BCM": 168.0, "MBC": 167.0, "SC": 152.0, "ST": 140.0 }
+    },
+    "highlights": ["Extensive multi-disciplinary campus", "MoUs with leading training corporations", "Specialized hands-on labs for IoT and AI"],
+    "recruiters": ["Tech Mahindra", "Cognizant", "CSS Corp", "Milacron", "Sutherland"]
+  },
+  {
+    "code": "1317",
+    "name": "St. Joseph's College of Engineering, Sholinganallur",
+    "district": "Chengalpattu",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 130,
+    "established": 1994,
+    "avgPackage": 5.0,
+    "maxPackage": 18.0,
+    "placementRate": 91,
+    "overview": "St. Joseph's College of Engineering is a renowned private institution on OMR, Chennai. It is highly recognized for academic discipline, consistent university ranks, and excellent campus dining options.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil", "chem", "biotech"],
+    "cutoffs": {
+      "cse": { "OC": 192.0, "BC": 190.5, "BCM": 189.0, "MBC": 188.5, "SC": 178.0, "ST": 170.0 },
+      "ece": { "OC": 186.0, "BC": 183.5, "BCM": 181.5, "MBC": 181.0, "SC": 170.0, "ST": 160.0 }
+    },
+    "highlights": ["Consistent top rank in placements", "Highly nutritious free campus mess", "Disciplined learning focus"],
+    "recruiters": ["Cognizant", "TCS", "Wipro", "Infosys", "Mindtree", "Zoho"]
+  },
+  {
+    "code": "1503",
+    "name": "C Abdul Hakeem College of Engineering and Technology, Melvisharam",
+    "district": "Ranipet",
+    "type": "Private",
+    "autonomous": false,
+    "nirfRank": 200,
+    "established": 1998,
+    "avgPackage": 4.0,
+    "maxPackage": 10.0,
+    "placementRate": 81,
+    "overview": "C Abdul Hakeem College of Engineering and Technology is a popular minority private engineering college in Ranipet district, committed to offering quality education to rural youth.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 180.0, "BC": 176.5, "BCM": 175.0, "MBC": 174.0, "SC": 158.0, "ST": 145.0 },
+      "ece": { "OC": 172.0, "BC": 167.5, "BCM": 165.0, "MBC": 164.0, "SC": 148.0, "ST": 138.0 }
+    },
+    "highlights": ["Strong sports programs", "Excellent mentoring systems", "State of the art computer labs"],
+    "recruiters": ["CSS Corp", "Syntel", "TCS", "Accenture", "Global Edge"]
+  },
+  {
+    "code": "3811",
+    "name": "Kings College of Engineering, Punalkulam",
+    "district": "Pudukkottai",
+    "type": "Private",
+    "autonomous": false,
+    "nirfRank": 210,
+    "established": 2001,
+    "avgPackage": 3.8,
+    "maxPackage": 8.0,
+    "placementRate": 80,
+    "overview": "Kings College of Engineering is a private engineering college in Punalkulam, Pudukkottai district. The college is dedicated to providing standard engineering knowledge to rural delta students.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 176.0, "BC": 171.0, "BCM": 169.0, "MBC": 168.0, "SC": 152.0, "ST": 140.0 },
+      "ece": { "OC": 168.0, "BC": 162.0, "BCM": 160.0, "MBC": 159.0, "SC": 142.0, "ST": 130.0 }
+    },
+    "highlights": ["Active technical clubs and IEEE student branch", "Spacious and peaceful rural environment", "Focus on technical value-addition courses"],
+    "recruiters": ["Muthoot", "Wipro", "Vernalis", "Sutherland", "Allsec"]
+  },
+  {
+    "code": "8101",
+    "name": "University College of Engineering, Ariyalur",
+    "district": "Ariyalur",
+    "type": "Government",
+    "autonomous": false,
+    "nirfRank": 220,
+    "established": 2008,
+    "avgPackage": 3.6,
+    "maxPackage": 8.0,
+    "placementRate": 75,
+    "overview": "University College of Engineering, Ariyalur is a constituent college of Anna University located in Ariyalur. It caters to students in delta districts with low-cost higher education.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 178.5, "BC": 174.0, "BCM": 171.5, "MBC": 171.0, "SC": 156.0, "ST": 142.0 },
+      "ece": { "OC": 170.0, "BC": 164.5, "BCM": 162.0, "MBC": 161.0, "SC": 145.0, "ST": 132.0 }
+    },
+    "highlights": ["Constituent college of Anna University", "Well-equipped university-grade chemistry and physics labs", "Highly affordable fee structure"],
+    "recruiters": ["TCS", "Cognizant", "Maintec", "Windcare", "HCL"]
+  },
+  {
+    "code": "8102",
+    "name": "Ariyalur Engineering College, Karuppur",
+    "district": "Ariyalur",
+    "type": "Private",
+    "autonomous": false,
+    "nirfRank": 250,
+    "established": 2013,
+    "avgPackage": 3.2,
+    "maxPackage": 6.0,
+    "placementRate": 70,
+    "overview": "Ariyalur Engineering College is a private self-financing institute located on the Trichy-Chidambaram highway, serving local engineering aspirants with modern infrastructure.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 169.5, "BC": 162.0, "BCM": 158.0, "MBC": 157.0, "SC": 142.0, "ST": 130.0 },
+      "ece": { "OC": 160.0, "BC": 152.0, "BCM": 148.0, "MBC": 147.0, "SC": 132.0, "ST": 120.0 }
+    },
+    "highlights": ["Transportation facilities across the district", "Highly cooperative faculty", "Scholarship support for community students"],
+    "recruiters": ["Sutherland", "Allsec Technologies", "Windcare", "Zealous"]
+  },
+  {
+    "code": "1311",
+    "name": "K C G College of Technology, Karapakkam",
+    "district": "Chennai",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 175,
+    "established": 1998,
+    "avgPackage": 4.8,
+    "maxPackage": 14.0,
+    "placementRate": 87,
+    "overview": "KCG College of Technology, situated on OMR, Chennai, is part of the Hindustan Group of Institutions. It is known for its aviation links, maker spaces, and student design teams.",
+    "coursesOffered": ["cse", "aids", "it", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 188.0, "BC": 185.0, "BCM": 183.0, "MBC": 182.5, "SC": 170.0, "ST": 159.0 },
+      "ece": { "OC": 179.0, "BC": 175.5, "BCM": 173.0, "MBC": 172.0, "SC": 158.0, "ST": 146.0 }
+    },
+    "highlights": ["Specialized aviation lab setup", "Active incubation center for startups", "Project funding and student patent assistance"],
+    "recruiters": ["Infosys", "Wipro", "TCS", "Accenture", "Hindustan Aeronautics", "Zoho"]
+  },
+  {
+    "code": "2609",
+    "name": "K S R College of Engineering, Tiruchengode",
+    "district": "Namakkal",
+    "type": "Private",
+    "autonomous": true,
+    "nirfRank": 165,
+    "established": 2001,
+    "avgPackage": 4.1,
+    "maxPackage": 12.0,
+    "placementRate": 84,
+    "overview": "KSR College of Engineering is a prominent private engineering college in Tiruchengode, Namakkal district. It offers multi-disciplinary course packages and excellent campus facilities.",
+    "coursesOffered": ["cse", "it", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 181.0, "BC": 177.0, "BCM": 175.0, "MBC": 174.5, "SC": 159.0, "ST": 148.0 },
+      "ece": { "OC": 172.0, "BC": 166.5, "BCM": 164.0, "MBC": 163.0, "SC": 147.0, "ST": 135.0 }
+    },
+    "highlights": ["Vast campus infrastructure", "Dedicated digital coding platforms", "Active sports academy and facilities"],
+    "recruiters": ["Wipro", "Cognizant", "TCS", "Sanmina", "Hexaware"]
+  },
+  {
+    "code": "1306",
+    "name": "Nelliandavar Institute of Technology, Pudhupalayam",
+    "district": "Ariyalur",
+    "type": "Private",
+    "autonomous": false,
+    "nirfRank": 260,
+    "established": 2012,
+    "avgPackage": 3.0,
+    "maxPackage": 6.0,
+    "placementRate": 68,
+    "overview": "Nelliandavar Institute of Technology is a private college located in Ariyalur district. It focuses on affordable engineering training and skill courses.",
+    "coursesOffered": ["cse", "ece", "eee", "mech", "civil"],
+    "cutoffs": {
+      "cse": { "OC": 166.0, "BC": 158.0, "BCM": 154.0, "MBC": 153.0, "SC": 138.0, "ST": 124.0 },
+      "ece": { "OC": 158.0, "BC": 149.0, "BCM": 144.0, "MBC": 143.0, "SC": 128.0, "ST": 115.0 }
+    },
+    "highlights": ["Affordable rural education", "Hands-on workshop labs", "Individual career counseling programs"],
+    "recruiters": ["Sutherland", "Allsec", "Sanmina", "Maintec"]
+  }
+]

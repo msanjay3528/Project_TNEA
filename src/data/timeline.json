@@ -1,0 +1,37 @@
+[
+  {
+    "step": 1,
+    "title": "Online Registration & Document Upload",
+    "date": "May 5 - June 4, 2026",
+    "status": "Completed",
+    "description": "Candidates register online, pay the application fee, and upload their academic and community certificates to the TNEA portal."
+  },
+  {
+    "step": 2,
+    "title": "Document Verification (TFC Centers)",
+    "date": "June 5 - June 20, 2026",
+    "status": "In Progress",
+    "description": "Uploaded documents are verified online by officials, or in-person at TNEA Facilitation Centers (TFC) for special cases/discrepancies."
+  },
+  {
+    "step": 3,
+    "title": "Random Number Generation & Rank List Release",
+    "date": "June 26, 2026",
+    "status": "Upcoming",
+    "description": "Anna University generates a random number for tie-breaking, followed by the publication of the official TNEA General and Community Rank List."
+  },
+  {
+    "step": 4,
+    "title": "Online Choice Filling (Round-wise)",
+    "date": "July 3 - July 28, 2026",
+    "status": "Upcoming",
+    "description": "Based on cutoffs and ranks, students are split into rounds. In each round, students submit their preferred order of colleges and courses."
+  },
+  {
+    "step": 5,
+    "title": "Tentative Allotment & Seat Confirmation",
+    "date": "July 30 - August 10, 2026",
+    "status": "Upcoming",
+    "description": "Seats are allocated tentatively based on rank and choices. Students must confirm the seat (Accept & Join, Accept & Upward, etc.) to finalize it."
+  }
+]

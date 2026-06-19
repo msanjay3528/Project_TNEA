@@ -1,0 +1,19 @@
+[
+  { "year": 2025, "code": "0001", "course": "cse", "community": "OC", "cutoff": 199.5 },
+  { "year": 2024, "code": "0001", "course": "cse", "community": "OC", "cutoff": 199.0 },
+  { "year": 2023, "code": "0001", "course": "cse", "community": "OC", "cutoff": 199.25 },
+  { "year": 2022, "code": "0001", "course": "cse", "community": "OC", "cutoff": 198.5 },
+  { "year": 2021, "code": "0001", "course": "cse", "community": "OC", "cutoff": 198.0 },
+  
+  { "year": 2025, "code": "2006", "course": "cse", "community": "OC", "cutoff": 199.0 },
+  { "year": 2024, "code": "2006", "course": "cse", "community": "OC", "cutoff": 198.5 },
+  { "year": 2023, "code": "2006", "course": "cse", "community": "OC", "cutoff": 198.0 },
+  { "year": 2022, "code": "2006", "course": "cse", "community": "OC", "cutoff": 197.5 },
+  { "year": 2021, "code": "2006", "course": "cse", "community": "OC", "cutoff": 197.0 },
+
+  { "year": 2025, "code": "1315", "course": "cse", "community": "OC", "cutoff": 198.0 },
+  { "year": 2024, "code": "1315", "course": "cse", "community": "OC", "cutoff": 197.5 },
+  { "year": 2023, "code": "1315", "course": "cse", "community": "OC", "cutoff": 197.0 },
+  { "year": 2022, "code": "1315", "course": "cse", "community": "OC", "cutoff": 196.5 },
+  { "year": 2021, "code": "1315", "course": "cse", "community": "OC", "cutoff": 195.5 }
+]

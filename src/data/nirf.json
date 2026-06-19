@@ -1,0 +1,12 @@
+[
+  { "rank": 15, "code": "0001", "name": "Anna University (CEG)", "score": 75.8, "researchScore": 82.4, "graduationOutcome": 88.6 },
+  { "rank": 22, "code": "0004", "name": "Anna University (MIT)", "score": 70.2, "researchScore": 73.1, "graduationOutcome": 85.2 },
+  { "rank": 30, "code": "2006", "name": "PSG College of Technology", "score": 67.5, "researchScore": 68.4, "graduationOutcome": 86.9 },
+  { "rank": 45, "code": "1315", "name": "SSN College of Engineering", "score": 60.1, "researchScore": 58.2, "graduationOutcome": 82.5 },
+  { "rank": 64, "code": "5008", "name": "Thiagarajar College of Engineering", "score": 54.8, "researchScore": 48.6, "graduationOutcome": 78.4 },
+  { "rank": 80, "code": "2018", "name": "PSG Institute of Technology & Applied Research", "score": 52.3, "researchScore": 42.1, "graduationOutcome": 81.0 },
+  { "rank": 85, "code": "2007", "name": "Coimbatore Institute of Technology", "score": 51.5, "researchScore": 44.5, "graduationOutcome": 76.8 },
+  { "rank": 105, "code": "1419", "name": "Sri Sairam Engineering College", "score": 48.6, "researchScore": 38.2, "graduationOutcome": 74.5 },
+  { "rank": 110, "code": "2005", "name": "Government College of Technology, Coimbatore", "score": 48.0, "researchScore": 35.8, "graduationOutcome": 73.2 },
+  { "rank": 120, "code": "2618", "name": "Sona College of Technology", "score": 46.5, "researchScore": 36.0, "graduationOutcome": 71.8 }
+]
